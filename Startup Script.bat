@@ -1,0 +1,1 @@
+PowerShell.exe -ExecutionPolicy Bypass -File "D:\Let's Automate\Scripts\Startup Script.ps1"
